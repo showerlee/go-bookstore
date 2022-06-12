@@ -15,3 +15,8 @@ A simple demo that helps you build bookstore api via golang
     go build bookstore/cmd/bookstore
     ```
 
+- Run bookstore
+
+    ```
+    ./bookstore
+    ```
